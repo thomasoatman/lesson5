@@ -1,5 +1,5 @@
 def add_two_values(value1, value2):
-    """ Adds two integers together
+    """ Adds two integers again
 
     Arguments:
     value1: first integer value e.g. 10
