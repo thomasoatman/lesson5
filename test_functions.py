@@ -4,7 +4,7 @@ from functions import *
 
 
 class TestFunctions(unittest.TestCase):
-    """ Test add_values again
+    """ Test add_values more
     """
     def setUp(self):
         self.value1 = 10
